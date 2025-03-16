@@ -1,4 +1,4 @@
-pip install torch torchvision torchaudio
+!pip install torch torchvision torchaudio
 
 import os
 import pandas as pd
