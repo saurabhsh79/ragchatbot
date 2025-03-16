@@ -1,9 +1,6 @@
-!pip install torch torchvision torchaudio
-
 import os
 import pandas as pd
 import numpy as np
-import torch
 from sentence_transformers import SentenceTransformer
 from rank_bm25 import BM25Okapi
 from langchain.vectorstores import FAISS
