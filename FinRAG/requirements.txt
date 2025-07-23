@@ -1,0 +1,13 @@
+streamlit
+langchain
+faiss-cpu
+openai
+tiktoken
+pypdf
+torch
+torchvision
+torchaudio
+transformers
+Pillow
+plotly
+fpdf
