@@ -1,0 +1,15 @@
+streamlit==1.36.0
+plotly==5.23.0
+langchain==0.2.12
+faiss-cpu==1.8.0
+openai==1.37.0
+tiktoken==0.7.0
+pypdf==4.2.0
+yfinance==0.2.43
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+transformers==4.44.2
+Pillow==10.4.0
+fpdf==1.7.2
+pandas==2.2.2
